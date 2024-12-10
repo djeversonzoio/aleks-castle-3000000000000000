@@ -1,0 +1,14 @@
+background-color: rgb(0, 0, 0);
+    color: rgb(238, 242, 245);
+}
+h1{
+    color: rgb(100, 13, 241);
+}
+section{
+    background: rgb(0, 0, 0);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
